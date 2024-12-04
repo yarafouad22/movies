@@ -1,2 +1,2 @@
-# movies
+# games
 API Project
